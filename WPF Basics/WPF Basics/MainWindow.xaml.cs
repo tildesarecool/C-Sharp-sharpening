@@ -27,7 +27,20 @@ namespace WPF_Basics
 
         private void ApplyButton_Click(object sender, RoutedEventArgs e)
         {
+            MessageBox.Show($"The descripton is : { this.DescriptionText.Text}" );
+        }
 
+        private void ResetButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.chkAssembly.IsChecked = this.chkWeld.IsChecked = this.chkDrill.IsChecked = this.chkFold.IsChecked = this.chkLaser.IsChecked = 
+                this.chkLathe.IsChecked = this.chkPlasma.IsChecked = this.chkPurchase.IsChecked = this.chkRoll.IsChecked = this.chkSaw.IsChecked = false;
+
+            //this.chkFold.IsChecked = false;
+        }
+
+        private void chk_Checked(object sender, RoutedEventArgs e)
+        {
+            this.LengthText.Text += ((CheckBox)sender).Content;
         }
     }
 }

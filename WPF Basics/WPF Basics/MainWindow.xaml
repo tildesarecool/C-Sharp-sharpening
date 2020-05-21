@@ -22,7 +22,7 @@
                 <!-- new c$ project. no idea what i'm doing -->
                 
                 <Button x:Name="ApplyButton" Click="ApplyButton_Click" Margin="0 0 10 0" Grid.Column="0" Content="Apply" />
-                <Button x:Name="ResetButton" Grid.Column="1" Content="Reset" />
+                <Button x:Name="ResetButton" Click="ResetButton_Click" Grid.Column="1" Content="Reset" />
                 <Button x:Name="RefreshButton" Margin="10 0 0 0" Grid.Column="2" Content="Refresh" />
             </Grid>
 
@@ -30,7 +30,7 @@
             
             <!-- Description -->
             <TextBlock Text="Description" />
-            <TextBox Padding="2" Margin="0 5" />
+            <TextBox x:Name="DescriptionText" Padding="2" Margin="0 5" />
             
             <!-- Status and Revision -->
 
@@ -80,21 +80,21 @@
 
                 <!-- column 1-->
                 <StackPanel Grid.Column="0" Margin="0 0 10 0">
-                    <CheckBox Content="Weld" />
-                    <CheckBox Content="Assembly" />
-                    <CheckBox Content="Plasma" />
-                    <CheckBox Content="Laser" />
-                    <CheckBox Content="Purchase" />
+                    <CheckBox Checked="chk_Checked" x:Name="chkWeld"  Content="Weld" />
+                    <CheckBox Checked="chk_Checked" x:Name="chkAssembly" Content="Assembly" />
+                    <CheckBox Checked="chk_Checked" x:Name="chkPlasma" Content="Plasma" />
+                    <CheckBox Checked="chk_Checked" x:Name="chkLaser" Content="Laser" />
+                    <CheckBox Checked="chk_Checked" x:Name="chkPurchase" Content="Purchase" />
                     
                 </StackPanel>
 
                 <!-- column  2 -->
                 <StackPanel Grid.Column="1">
-                    <CheckBox Content="Lathe" />
-                    <CheckBox Content="Drill" />
-                    <CheckBox Content="Fold" />
-                    <CheckBox Content="Roll" />
-                    <CheckBox Content="Saw" />
+                    <CheckBox x:Name="chkDrill" Content="Drill" />
+                    <CheckBox x:Name="chkFold" Content="Fold" />
+                    <CheckBox x:Name="chkRoll" Content="Roll" />
+                    <CheckBox x:Name="chkSaw" Content="Saw" />
+                    <CheckBox x:Name="chkLathe" Content="Lathe" />
                     
                     
                 </StackPanel>
@@ -102,7 +102,7 @@
 
             <!-- Length -->
             <TextBlock Text="Length" Margin="0 5" />
-            <TextBox Padding="2" />
+            <TextBox x:Name="LengthText" Padding="2" />
 
             <!-- Mass -->
             <TextBlock Text="Mass" />
