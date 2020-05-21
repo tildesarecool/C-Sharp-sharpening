@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "winforms app via ironpython", "winforms app via ironpython\winforms app via ironpython.pyproj", "{BA01D5A1-5F41-44E3-BF95-DDC1D315FC70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA01D5A1-5F41-44E3-BF95-DDC1D315FC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA01D5A1-5F41-44E3-BF95-DDC1D315FC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94EB3BF4-E3D5-4E37-9DEB-C0F811C30C48}
+	EndGlobalSection
+EndGlobal

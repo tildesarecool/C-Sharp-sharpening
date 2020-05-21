@@ -1,0 +1,15 @@
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\bin\Release\netcoreapp3.1\Trying out Winforms.exe
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\bin\Release\netcoreapp3.1\Trying out Winforms.deps.json
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\bin\Release\netcoreapp3.1\Trying out Winforms.runtimeconfig.json
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\bin\Release\netcoreapp3.1\Trying out Winforms.runtimeconfig.dev.json
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\bin\Release\netcoreapp3.1\Trying out Winforms.dll
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\bin\Release\netcoreapp3.1\Trying out Winforms.pdb
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\obj\Release\netcoreapp3.1\Trying out Winforms.csprojAssemblyReference.cache
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\obj\Release\netcoreapp3.1\Trying_out_Winforms.Form1.resources
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\obj\Release\netcoreapp3.1\Trying out Winforms.csproj.GenerateResource.cache
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\obj\Release\netcoreapp3.1\Trying out Winforms.AssemblyInfoInputs.cache
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\obj\Release\netcoreapp3.1\Trying out Winforms.AssemblyInfo.cs
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\obj\Release\netcoreapp3.1\Trying out Winforms.csproj.CoreCompileInputs.cache
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\obj\Release\netcoreapp3.1\Trying out Winforms.dll
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\obj\Release\netcoreapp3.1\Trying out Winforms.pdb
+P:\Repos\C-Sharp-sharpening\Trying out Winforms\Trying out Winforms\obj\Release\netcoreapp3.1\Trying out Winforms.genruntimeconfig.cache
