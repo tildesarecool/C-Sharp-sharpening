@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QFo7KF9FXlkjWCVq+J6bzEnHEf7KjfwDveb3ar75CAnLpmQ/QsqoRWRm2OtH4CWooDMnvKx5W4EZsm8NpLpsA==",
+  "success": true,
+  "projectFilePath": "P:\\Repos\\C-Sharp-sharpening\\New WinForm still CSharp\\New WinForm still CSharp\\New WinForm still CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
