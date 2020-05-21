@@ -24,5 +24,10 @@ namespace WPF_Basics
         {
             InitializeComponent();
         }
+
+        private void ApplyButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
