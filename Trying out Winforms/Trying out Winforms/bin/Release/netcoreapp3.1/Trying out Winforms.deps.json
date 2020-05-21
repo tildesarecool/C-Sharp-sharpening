@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Trying out Winforms/1.0.0": {
+        "runtime": {
+          "Trying out Winforms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trying out Winforms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

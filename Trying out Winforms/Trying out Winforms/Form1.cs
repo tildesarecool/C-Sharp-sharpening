@@ -17,5 +17,9 @@ namespace Trying_out_Winforms
             InitializeComponent();
         }
 
+        private void HelloButton_Click(object sender, EventArgs e)
+        {
+            HelloTextBox.Text = "Hello .NET";
+        }
     }
 }
