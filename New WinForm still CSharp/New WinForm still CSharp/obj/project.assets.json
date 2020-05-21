@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Keith\\.nuget\\packages\\": {}
+    "C:\\Users\\khole\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\Repos\\C-Sharp-sharpening\\New WinForm still CSharp\\New WinForm still CSharp\\New WinForm still CSharp.csproj",
+      "projectUniqueName": "S:\\repos\\C-Sharp-sharpening\\New WinForm still CSharp\\New WinForm still CSharp\\New WinForm still CSharp.csproj",
       "projectName": "New WinForm still CSharp",
-      "projectPath": "P:\\Repos\\C-Sharp-sharpening\\New WinForm still CSharp\\New WinForm still CSharp\\New WinForm still CSharp.csproj",
-      "packagesPath": "C:\\Users\\Keith\\.nuget\\packages\\",
-      "outputPath": "P:\\Repos\\C-Sharp-sharpening\\New WinForm still CSharp\\New WinForm still CSharp\\obj\\",
+      "projectPath": "S:\\repos\\C-Sharp-sharpening\\New WinForm still CSharp\\New WinForm still CSharp\\New WinForm still CSharp.csproj",
+      "packagesPath": "C:\\Users\\khole\\.nuget\\packages\\",
+      "outputPath": "S:\\repos\\C-Sharp-sharpening\\New WinForm still CSharp\\New WinForm still CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Keith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\khole\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
