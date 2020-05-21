@@ -5,8 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Basics"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <!-- new c$ project. no idea what i'm doing -->
-    </Grid>
+        Title="MainWindow" Height="600" Width="400">
+    <StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <!-- new c$ project. no idea what i'm doing -->
+            <Button Grid.Column="0" Content="Apply" />
+            <Button Grid.Column="1" Content="Reset" />
+            <Button Grid.Column="2" Content="Refresh" />
+        </Grid>
+    </StackPanel>
+
+
+
+
 </Window>
