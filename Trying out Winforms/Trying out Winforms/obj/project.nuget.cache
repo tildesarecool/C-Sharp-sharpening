@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7E2iAlOvyZH903HMD8Gh71LYsOJlq+7C/tYQLqne0vR/H/nRvd0z/zm99uEKJnS3KxxpcQg7h8TwsK50+/SIg==",
+  "success": true,
+  "projectFilePath": "P:\\Repos\\C-Sharp-sharpening\\Trying out Winforms\\Trying out Winforms\\Trying out Winforms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
