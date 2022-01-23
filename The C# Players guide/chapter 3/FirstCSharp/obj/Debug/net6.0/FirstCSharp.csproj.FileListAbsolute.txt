@@ -1,0 +1,15 @@
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\bin\Debug\net6.0\FirstCSharp.exe
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\bin\Debug\net6.0\FirstCSharp.deps.json
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\bin\Debug\net6.0\FirstCSharp.runtimeconfig.json
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\bin\Debug\net6.0\FirstCSharp.dll
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\bin\Debug\net6.0\ref\FirstCSharp.dll
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\bin\Debug\net6.0\FirstCSharp.pdb
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\obj\Debug\net6.0\FirstCSharp.csproj.AssemblyReference.cache
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\obj\Debug\net6.0\FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\obj\Debug\net6.0\FirstCSharp.AssemblyInfoInputs.cache
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\obj\Debug\net6.0\FirstCSharp.AssemblyInfo.cs
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\obj\Debug\net6.0\FirstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\obj\Debug\net6.0\FirstCSharp.dll
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\obj\Debug\net6.0\ref\FirstCSharp.dll
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\obj\Debug\net6.0\FirstCSharp.pdb
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\The C# Players guide\chapter 3\FirstCSharp\obj\Debug\net6.0\FirstCSharp.genruntimeconfig.cache

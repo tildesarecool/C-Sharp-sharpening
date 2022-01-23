@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3f34bfe-1080-40a9-95f4-200f103641cf": {
+      "ProjectGuid": "b3f34bfe-1080-40a9-95f4-200f103641cf",
+      "DisplayName": "FirstCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
