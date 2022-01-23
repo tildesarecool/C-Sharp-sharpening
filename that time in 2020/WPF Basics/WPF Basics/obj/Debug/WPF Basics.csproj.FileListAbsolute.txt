@@ -1,0 +1,30 @@
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\bin\Debug\WPF Basics.exe.config
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\bin\Debug\WPF Basics.exe
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\bin\Debug\WPF Basics.pdb
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.csprojAssemblyReference.cache
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\MainWindow.g.cs
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\App.g.cs
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics_MarkupCompile.cache
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics_MarkupCompile.lref
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\MainWindow.baml
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.g.resources
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF_Basics.Properties.Resources.resources
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.csproj.GenerateResource.cache
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.csproj.CoreCompileInputs.cache
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.exe
+C:\Users\Keith\Documents\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.pdb
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\bin\Debug\WPF Basics.exe.config
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\bin\Debug\WPF Basics.exe
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\bin\Debug\WPF Basics.pdb
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.csprojAssemblyReference.cache
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\MainWindow.g.cs
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\App.g.cs
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics_MarkupCompile.cache
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics_MarkupCompile.lref
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\MainWindow.baml
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.g.resources
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF_Basics.Properties.Resources.resources
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.csproj.GenerateResource.cache
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.csproj.CoreCompileInputs.cache
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.exe
+S:\repos\C-Sharp-sharpening\WPF Basics\WPF Basics\obj\Debug\WPF Basics.pdb
